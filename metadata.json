@@ -1,0 +1,6 @@
+{
+  "name": "BharatWheels - All India Vehicle Rental Platform",
+  "description": "Comprehensive, multi-category vehicle rental management system offering bikes, cars, EVs, commercial trucks, tempo travellers, and buses across India.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
